@@ -3,4 +3,9 @@ mail.businesscorp.com.br 37.59.174.227
 ftp.businesscorp.com.br 37.59.174.225
 ns1.businesscorp.com.br 37.59.174.225
 ns2.businesscorp.com.br 37.59.174.226
+<<<<<<< HEAD
 dev.businesscorp.com.br 16.12.0.18
+=======
+dev.businesscorp.com.br 16.12.0.18
+
+>>>>>>> origin/tool-dns-domain
