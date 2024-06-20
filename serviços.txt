@@ -1,0 +1,4 @@
+IP: 37.59.174.225
+PORTA: 22
+SERVIÇO: <_io.TextIOWrapper name='serviços.txt' mode='a' encoding='cp1252'>
+

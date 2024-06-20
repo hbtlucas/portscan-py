@@ -26,6 +26,14 @@ def scan_ports(ip):
                 print(f"IP: {ip}")
                 print(f"Porta: {porta}")
                 print(f"Serviço: {serviço}")
+                scan.close()
+
+                with open('serviços.txt', 'a') as serviços:
+                    serviços.write(f"IP: {ip}\n")
+                    serviços.write(f"PORTA: {porta}\n")
+                    serviços.write(f"SERVIÇO: {serviços}\n")
+                    serviços.write("\n")
+                    
         except:
             pass
 def parse():
