@@ -1,0 +1,9 @@
+http://www.businesscorp.com.br/images/
+http://www.businesscorp.com.br/js/
+http://www.businesscorp.com.br/site/
+http://ftp.businesscorp.com.br/images/
+http://ftp.businesscorp.com.br/js/
+http://ftp.businesscorp.com.br/site/
+http://ns1.businesscorp.com.br/images/
+http://ns1.businesscorp.com.br/js/
+http://ns1.businesscorp.com.br/site/
